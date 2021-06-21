@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1fc6a7ab-b470-4633-a163-a04e368afc2a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="647ec04b-9720-40f2-a7c7-6e7a95805b1a" />
+  <component name="ProjectId" id="1u1QX62h2lwSpsLky5pbaApYbao" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Python.data_proccess">
+    <configuration name="data_proccess" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MLProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dataProccess" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dataProccess/data_proccess.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="MLProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.data_proccess" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1fc6a7ab-b470-4633-a163-a04e368afc2a" name="Default Changelist" comment="" />
+      <created>1623830651785</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623830651785</updated>
+      <workItem from="1623830653240" duration="5398000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1333" height="225" key="GridCell.Tab.0.bottom" timestamp="1623846395617">
+      <screen x="0" y="0" width="1376" height="733" />
+    </state>
+    <state width="1333" height="225" key="GridCell.Tab.0.bottom/0.0.1376.733@0.0.1376.733" timestamp="1623846395617" />
+    <state width="1333" height="225" key="GridCell.Tab.0.center" timestamp="1623846395617">
+      <screen x="0" y="0" width="1376" height="733" />
+    </state>
+    <state width="1333" height="225" key="GridCell.Tab.0.center/0.0.1376.733@0.0.1376.733" timestamp="1623846395617" />
+    <state width="1333" height="225" key="GridCell.Tab.0.left" timestamp="1623846395617">
+      <screen x="0" y="0" width="1376" height="733" />
+    </state>
+    <state width="1333" height="225" key="GridCell.Tab.0.left/0.0.1376.733@0.0.1376.733" timestamp="1623846395617" />
+    <state width="1333" height="225" key="GridCell.Tab.0.right" timestamp="1623846395617">
+      <screen x="0" y="0" width="1376" height="733" />
+    </state>
+    <state width="1333" height="225" key="GridCell.Tab.0.right/0.0.1376.733@0.0.1376.733" timestamp="1623846395617" />
+    <state width="1333" height="225" key="GridCell.Tab.1.bottom" timestamp="1623846395618">
+      <screen x="0" y="0" width="1376" height="733" />
+    </state>
+    <state width="1333" height="225" key="GridCell.Tab.1.bottom/0.0.1376.733@0.0.1376.733" timestamp="1623846395618" />
+    <state width="1333" height="225" key="GridCell.Tab.1.center" timestamp="1623846395618">
+      <screen x="0" y="0" width="1376" height="733" />
+    </state>
+    <state width="1333" height="225" key="GridCell.Tab.1.center/0.0.1376.733@0.0.1376.733" timestamp="1623846395618" />
+    <state width="1333" height="225" key="GridCell.Tab.1.left" timestamp="1623846395617">
+      <screen x="0" y="0" width="1376" height="733" />
+    </state>
+    <state width="1333" height="225" key="GridCell.Tab.1.left/0.0.1376.733@0.0.1376.733" timestamp="1623846395617" />
+    <state width="1333" height="225" key="GridCell.Tab.1.right" timestamp="1623846395618">
+      <screen x="0" y="0" width="1376" height="733" />
+    </state>
+    <state width="1333" height="225" key="GridCell.Tab.1.right/0.0.1376.733@0.0.1376.733" timestamp="1623846395618" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MLProject$data_proccess.coverage" NAME="data_proccess Coverage Results" MODIFIED="1623835710234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataProccess" />
+  </component>
+</project>
