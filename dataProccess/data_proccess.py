@@ -72,13 +72,18 @@ class discrete_data_proccess(fillna_method):
 
 class time_data_proccess():
        def time_info_extract(self):
-              pass
+              data = pd.DataFrame()
+              date_time = pd.to_datetime(self)
+              data['year'] = date_time.year
+              data['month'] = date_time.month
+              data['day'] = date_time.day
+              data['hour'] = date_time.hour
+              data['minute'] = date_time.minute
+              data['second'] = date_time.second
+              data['quater'] = date_time.quarter
+              return data
 
-boston_price = datasets.load_boston()
-clip_board = pd.read_clipboard()
-x_data = boston_price.data
-y_data = boston_price.target
-tss1 = '2013-10-10 23:40:00'
+
 
 
 
