@@ -15,12 +15,16 @@ from sklearn import datasets
 import matplotlib.pyplot as plt
 from sklearn.preprocessing import StandardScaler
 from sklearn import preprocessing
+from sklearn.impute import KNNImputer, SimpleImputer
 
 class fillna_method():
        def fillna_mean(self, data):
               return self.fillna(data, inplace=True)
 
-       # 填补缺失值随机森林
+       # knn填补缺失值
+       def fillna_knn(self):
+              pass
+       # 随机森林填补缺失值
        def fillna_forest(self):
               pass
 

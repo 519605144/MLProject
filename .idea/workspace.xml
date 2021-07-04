@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1fc6a7ab-b470-4633-a163-a04e368afc2a" name="Default Changelist" comment="" />
+    <list default="true" id="1fc6a7ab-b470-4633-a163-a04e368afc2a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/MLProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MLProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataProccess/data_proccess.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataProccess/data_proccess.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +21,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JupyterTrust" id="647ec04b-9720-40f2-a7c7-6e7a95805b1a" />
   <component name="ProjectId" id="1u1QX62h2lwSpsLky5pbaApYbao" />
   <component name="ProjectViewState">
@@ -21,10 +31,35 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.data_proccess">
+  <component name="RunManager" selected="Python.learn">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="MLProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="data_proccess" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MLProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -41,6 +76,28 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dataProccess/data_proccess.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="learn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MLProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -71,6 +128,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.learn" />
         <item itemvalue="Python.data_proccess" />
       </list>
     </recent_temporary>
@@ -84,6 +142,11 @@
       <option name="presentableId" value="Default" />
       <updated>1623830651785</updated>
       <workItem from="1623830653240" duration="5398000" />
+      <workItem from="1624583275254" duration="12611000" />
+      <workItem from="1624846874970" duration="7410000" />
+      <workItem from="1624866117849" duration="4449000" />
+      <workItem from="1624871836723" duration="17916000" />
+      <workItem from="1625207789922" duration="6480000" />
     </task>
     <servers />
   </component>
@@ -91,40 +154,53 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1333" height="225" key="GridCell.Tab.0.bottom" timestamp="1623846395617">
+    <state x="143" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1624872638008">
       <screen x="0" y="0" width="1376" height="733" />
     </state>
-    <state width="1333" height="225" key="GridCell.Tab.0.bottom/0.0.1376.733@0.0.1376.733" timestamp="1623846395617" />
-    <state width="1333" height="225" key="GridCell.Tab.0.center" timestamp="1623846395617">
+    <state x="143" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1376.733@0.0.1376.733" timestamp="1624872638008" />
+    <state x="468" y="121" key="FileChooserDialogImpl" timestamp="1624872706142">
       <screen x="0" y="0" width="1376" height="733" />
     </state>
-    <state width="1333" height="225" key="GridCell.Tab.0.center/0.0.1376.733@0.0.1376.733" timestamp="1623846395617" />
-    <state width="1333" height="225" key="GridCell.Tab.0.left" timestamp="1623846395617">
+    <state x="468" y="121" key="FileChooserDialogImpl/0.0.1376.733@0.0.1376.733" timestamp="1624872706142" />
+    <state width="1333" height="190" key="GridCell.Tab.0.bottom" timestamp="1625208336002">
       <screen x="0" y="0" width="1376" height="733" />
     </state>
-    <state width="1333" height="225" key="GridCell.Tab.0.left/0.0.1376.733@0.0.1376.733" timestamp="1623846395617" />
-    <state width="1333" height="225" key="GridCell.Tab.0.right" timestamp="1623846395617">
+    <state width="1333" height="190" key="GridCell.Tab.0.bottom/0.0.1376.733@0.0.1376.733" timestamp="1625208336002" />
+    <state width="1333" height="190" key="GridCell.Tab.0.center" timestamp="1625208336002">
       <screen x="0" y="0" width="1376" height="733" />
     </state>
-    <state width="1333" height="225" key="GridCell.Tab.0.right/0.0.1376.733@0.0.1376.733" timestamp="1623846395617" />
-    <state width="1333" height="225" key="GridCell.Tab.1.bottom" timestamp="1623846395618">
+    <state width="1333" height="190" key="GridCell.Tab.0.center/0.0.1376.733@0.0.1376.733" timestamp="1625208336002" />
+    <state width="1333" height="190" key="GridCell.Tab.0.left" timestamp="1625208336001">
       <screen x="0" y="0" width="1376" height="733" />
     </state>
-    <state width="1333" height="225" key="GridCell.Tab.1.bottom/0.0.1376.733@0.0.1376.733" timestamp="1623846395618" />
-    <state width="1333" height="225" key="GridCell.Tab.1.center" timestamp="1623846395618">
+    <state width="1333" height="190" key="GridCell.Tab.0.left/0.0.1376.733@0.0.1376.733" timestamp="1625208336001" />
+    <state width="1333" height="190" key="GridCell.Tab.0.right" timestamp="1625208336002">
       <screen x="0" y="0" width="1376" height="733" />
     </state>
-    <state width="1333" height="225" key="GridCell.Tab.1.center/0.0.1376.733@0.0.1376.733" timestamp="1623846395618" />
-    <state width="1333" height="225" key="GridCell.Tab.1.left" timestamp="1623846395617">
+    <state width="1333" height="190" key="GridCell.Tab.0.right/0.0.1376.733@0.0.1376.733" timestamp="1625208336002" />
+    <state width="1333" height="190" key="GridCell.Tab.1.bottom" timestamp="1625208336003">
       <screen x="0" y="0" width="1376" height="733" />
     </state>
-    <state width="1333" height="225" key="GridCell.Tab.1.left/0.0.1376.733@0.0.1376.733" timestamp="1623846395617" />
-    <state width="1333" height="225" key="GridCell.Tab.1.right" timestamp="1623846395618">
+    <state width="1333" height="190" key="GridCell.Tab.1.bottom/0.0.1376.733@0.0.1376.733" timestamp="1625208336003" />
+    <state width="1333" height="190" key="GridCell.Tab.1.center" timestamp="1625208336003">
       <screen x="0" y="0" width="1376" height="733" />
     </state>
-    <state width="1333" height="225" key="GridCell.Tab.1.right/0.0.1376.733@0.0.1376.733" timestamp="1623846395618" />
+    <state width="1333" height="190" key="GridCell.Tab.1.center/0.0.1376.733@0.0.1376.733" timestamp="1625208336003" />
+    <state width="1333" height="190" key="GridCell.Tab.1.left" timestamp="1625208336002">
+      <screen x="0" y="0" width="1376" height="733" />
+    </state>
+    <state width="1333" height="190" key="GridCell.Tab.1.left/0.0.1376.733@0.0.1376.733" timestamp="1625208336002" />
+    <state width="1333" height="190" key="GridCell.Tab.1.right" timestamp="1625208336003">
+      <screen x="0" y="0" width="1376" height="733" />
+    </state>
+    <state width="1333" height="190" key="GridCell.Tab.1.right/0.0.1376.733@0.0.1376.733" timestamp="1625208336003" />
+    <state x="190" y="11" key="SettingsEditor" timestamp="1624896208663">
+      <screen x="0" y="0" width="1376" height="733" />
+    </state>
+    <state x="190" y="11" key="SettingsEditor/0.0.1376.733@0.0.1376.733" timestamp="1624896208663" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/MLProject$data_proccess.coverage" NAME="data_proccess Coverage Results" MODIFIED="1623835710234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dataProccess" />
+    <SUITE FILE_PATH="coverage/MLProject$main.coverage" NAME="main Coverage Results" MODIFIED="1625208304422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
